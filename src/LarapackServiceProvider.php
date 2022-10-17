@@ -2,9 +2,9 @@
 
 namespace laravel\Larapack;
 
+use laravel\Larapack\Commands\LarapackCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use laravel\Larapack\Commands\LarapackCommand;
 
 class LarapackServiceProvider extends PackageServiceProvider
 {
