@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace laravel\Larapack\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LarapackCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'larapack';
 
     public $description = 'My command';
 
